@@ -1,0 +1,28 @@
+name: ONM Madeiras
+favicon: null
+layout_spectrum: 0.1382761113345623
+typography_spectrum: 0.205018948065117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.49617210566066206
+  lightness: 0.0022917699534446
+  saturation: 0.40390319004654884
+  rhythmicContrast: 0.3202675280626863
+purpose: []
