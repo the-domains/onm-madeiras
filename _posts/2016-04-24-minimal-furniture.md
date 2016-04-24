@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Minimal Furniture
-datePublished: '2016-04-24T09:02:29.840Z'
-dateModified: '2016-04-24T09:02:01.519Z'
+datePublished: '2016-04-24T09:05:37.841Z'
+dateModified: '2016-04-24T09:02:31.813Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-minimal-furniture.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-minimal-furniture.md
-published: true
 url: minimal-furniture/index.html
 _type: Article
 
